@@ -1,0 +1,32 @@
+{
+  "name": "ajax-hook",
+  "version": "1.8.0",
+  "main":"index.js",
+  "typings":"./index.d.ts",
+  "author": {
+    "name": "wendux",
+    "email": "824783146@qq.com",
+    "url": "https://github.com/wendux"
+  },
+  "description": "Hook Javascript global XMLHttpRequest  object。 And change the  default AJAX   request and response .",
+  "keywords": [
+    "ajax hook",
+    "hook ajax",
+    "ajax-hook",
+    "wendux"
+  ],
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/wendux/Neat/Ajax-hook"
+  },
+  "bugs": {
+    "url": "https://github.com/wendux/Ajax-hook/issues"
+  },
+  "scripts": {
+    "build": "webpack",
+    "test": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
